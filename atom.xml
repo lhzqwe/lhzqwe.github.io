@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="/404.html/"/>
+  <updated>2016-12-10T11:45:07.000Z</updated>
+  <id>/404.html/</id>
+  
+  <author>
+    <name>Hezheng Li</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>写在最前面</title>
+    <link href="/404.html/2016/12/10/hello-world/"/>
+    <id>/404.html/2016/12/10/hello-world/</id>
+    <published>2016-12-10T08:22:42.000Z</published>
+    <updated>2016-12-10T11:45:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a>
+<p>在某大神学长的感染下，萌生了个人主页的想法，主要用来总结Coding过程中所犯下的错误，偶尔写一写自己的感想~<br><img src="hello-world.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;在某大神学长的感染下，萌生了个人主页的想法，主要用来总结Coding过程中所犯下的错误，偶尔写一写自己的感想~&lt;br&gt;&lt;img src=&quot;hello-world.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="感言" scheme="/404.html/tags/%E6%84%9F%E8%A8%80/"/>
+    
+  </entry>
+  
+</feed>
